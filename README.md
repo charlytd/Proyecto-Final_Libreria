@@ -1,2 +1,2 @@
 # Proyecto-Final_Libreria
-Javascrip con Mocha
+Proyecto realizado en JavaScript, utilizando Mocha para las pruebas
